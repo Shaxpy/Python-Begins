@@ -1,0 +1,14 @@
+def is_leap(year):
+    leap = False
+    bool 
+    # Write your logic here
+    if year%4==0:
+        if year%100==0: 
+            if year%400==0:
+                return True
+            return leap
+        return leap    
+    else:
+        return leap
+
+year = int(input())

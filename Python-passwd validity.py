@@ -4,8 +4,8 @@ Created on Fri Jan  4 20:02:03 2019
 
 @author: SHASHWAT PANDEY
 """
-
 import re 
+
 password = input()
 t = 0
 while True:
